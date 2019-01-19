@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ishrat95/Comp308Lesson1A.git"
+    "url": "git+https://github.com/ishrat95/Comp308-Lesson2.git"
   },
   "author": "ishrat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ishrat95/Comp308Lesson1A/issues"
+    "url": "https://github.com/ishrat95/Comp308-Lesson2/issues"
   },
-  "homepage": "https://github.com/ishrat95/Comp308Lesson1A#readme",
+  "homepage": "https://github.com/ishrat95/Comp308-Lesson2#readme",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "font-awesome": "^4.7.0",
